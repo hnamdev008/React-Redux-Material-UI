@@ -1,1 +1,1 @@
-# React-Redux-Material-UI-Second
+# React-Redux-Material-UI
